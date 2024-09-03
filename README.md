@@ -12,4 +12,6 @@ A Facade is a design pattern that provides a simple interface to a complex syste
 
 This project implements a home theater management system using the Facade design pattern, simplifying the control of components like the projector, sound system, and DVD player through a single interface. It includes unit testing with mock objects to ensure correct behavior.
 
+### Environment
+The project builds and runs with Visual Studio Community 2022 when the required workloads are installed.
 
